@@ -9,6 +9,8 @@ Frankly, a big portion of the conference was an absolute blur. I learned that my
 On that note, **THANK YOU** to the amazing volunteers, task force members, Carpentries staff and conference attendees who stepped up to take on last minute tasks like re-printing and re-posting all our signage (we joke that the original “CapentryCon2018” signs will become memorabilia someday), setting up Etherpads, stuffing bags, taking notes at sessions, guarding luggage, and the million and one other seemingly small but incredibly important tasks that made this conference such a success. I also want to personally say a big **THANK YOU** to all of you who flooded Twitter with your insights, observations, and live tweets from the various sessions! Having the community actively contribute to our social media presence not only helped to share the conference with the world but also took a huge amount of work off my hands. [Francois](https://twitter.com/fmic_) has written an [awesome report](https://carpentries.org/2018/06/carpentrycon-tweets) about how Twitter and our #CarpentryCon2018 hashtag was used!
   
 I’m so excited to start reviewing feedback from the conference and working through the offboarding process; I’m confident that I can speak for the entire task force when I say that we learned A LOT and look forward to passing that knowledge on to the Carpentries community and beyond.
+  
 Because I simply can’t say it enough: **THANK YOU** **THANK YOU** **THANK YOU** **THANK YOU** **THANK YOU**.
 
-- Danielle Q
+Much love,  
+Danielle Q
