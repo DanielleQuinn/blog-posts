@@ -1,3 +1,5 @@
+*June 11, 2018*
+
 First and foremost – I can’t believe the inaugural CarpentryCon is over! After so many months of planning, it feels surreal that those three amazing days are behind us. I lost count of the number of times I felt downright emotional with happiness and love and belonging and happiness and love (and have I mentioned happiness?).
   
 One of my favourite outcomes of this event is that every single CarpentryCon attendee benefited from the conference in different ways. It has been incredible to hear from so many people what their favourite sessions were, or, even better, how they felt they were able to grow from the experience. Personally, my confidence in speaking to (and in front of!) people and in my ability to manage tasks has increased ten-fold over the last week. I also feel like I’ve been exposed to the most wonderful display of inclusivity, accessibility, and diversity, and I’m determined to carry what I’ve learned about being an ally into my life and work in Canada.
