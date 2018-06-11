@@ -10,7 +10,7 @@ On that note, **THANK YOU** to the amazing volunteers, task force members, Carpe
   
 I’m so excited to start reviewing feedback from the conference and working through the offboarding process; I’m confident that I can speak for the entire task force when I say that we learned A LOT and look forward to passing that knowledge on to the Carpentries community and beyond.
   
-Because I simply can’t say it enough: **THANK YOU** **THANK YOU** **THANK YOU** **THANK YOU** **THANK YOU**.
+Because I simply can’t say it enough: **THANK YOU** **THANK YOU** **THANK YOU** **THANK YOU**.
 
 Much love,  
 Danielle Q
