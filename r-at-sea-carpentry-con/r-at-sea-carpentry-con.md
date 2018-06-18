@@ -45,6 +45,6 @@ What will I do differently next time? Define modelling expectations: one aspect 
 
 ![](slide9.png)
 
-I think that these sort of “coding retreats” have the potential to be a valuable resources for learners. We recently announced our next round of R at Sea, which will be happening September 1-3, 2018; if you or anyone you know might be interested in becoming a student with Field School, check out the website and / or contact me at danielle.quinn@mun.ca!
+I think that these sort of “coding retreats” have the potential to be a valuable resources for learners. We recently announced our [next round of R at Sea]()http://www.getintothefield.com/r-workshop.html, which will be happening September 1-3, 2018; if you or anyone you know might be interested in becoming a student with Field School, check out the website and / or contact me at danielle.quinn@mun.ca! Also, check out [this great video](https://www.youtube.com/watch?time_continue=2&v=CFqQ6C9Krmo) from last year's course!
 
 ![](slide10.png)
