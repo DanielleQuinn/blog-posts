@@ -5,7 +5,7 @@ title: R at Sea: A Carpentry-Inspired Workshop for Immersive Learning On and Und
 
 *June 18, 2018*
 
-This is a lightning talk that I gave on May 31, 2018 at [CarpentryCon](http://carpentrycon.org) at University College Dublin. If you have any questions, please reach out via GitHub or Twitter (@daniellequinn88)!
+This is a lightning talk that I gave on May 31, 2018 at [CarpentryCon](http://carpentrycon.org) at University College Dublin. If you have any questions, please reach out via [Twitter](https://twitter.com/daniellequinn88) or [GitHub](https://github.com/DanielleQuinn)!
 
 ![](slide1.png)
 
