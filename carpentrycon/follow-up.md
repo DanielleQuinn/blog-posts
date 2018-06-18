@@ -1,3 +1,8 @@
+---
+title: To the most inspiring people - the Carpentries community!
+
+---
+
 *June 11, 2018*
 
 First and foremost – I can’t believe the inaugural CarpentryCon is over! After so many months of planning, it feels surreal that those three amazing days are behind us. I lost count of the number of times I felt downright emotional with happiness and love and belonging and happiness and love (and have I mentioned happiness?).
