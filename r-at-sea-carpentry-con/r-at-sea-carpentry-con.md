@@ -29,11 +29,11 @@ Non-traditional learning spaces can work - but they provide a unique set of chal
 
 ![](slide7.png)
 
-As you may imagine, trying to teach students statistics and coding at the same time leads to cognitive overload. To battle this, I use faded-example inspired code-alongs by providing fill-in-the-blank coding template that provides comments that help learners recognize patterns in modelling processes.
+Casual, optional evening sessions WORK when everyone is in the same boat… figuratively, and in this case, literally. They lead to excitement, discussions, and cooperative coding as learners apply what they have learned to their own data sets and help each other troubleshoot their scripts.
 
 ![](slide8.png)
 
-Casual, optional evening sessions WORK when everyone is in the same boat… figuratively, and in this case, literally. They lead to excitement, discussions, and cooperative coding as learners apply what they have learned to their own data sets and help each other troubleshoot their scripts.
+As you may imagine, trying to teach students statistics and coding at the same time leads to cognitive overload. To battle this, I use faded-example inspired code-alongs by providing fill-in-the-blank coding template that provides comments that help learners recognize patterns in modelling processes.
 
 ![](slide9.png)
 
