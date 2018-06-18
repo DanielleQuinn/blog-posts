@@ -35,14 +35,15 @@ Casual, optional evening sessions WORK when everyone is in the same boat… figu
 
 As you may imagine, trying to teach students statistics and coding at the same time leads to cognitive overload. To battle this, I use faded-example inspired code-alongs by providing fill-in-the-blank coding template that provides comments that help learners recognize patterns in modelling processes.
 
-![](slide9.png)
+![](actualslide9.png)
 
 As I mentioned, we wanted to target those learners identified as "fence-sitters"; those that needed that extra convincing to take the plunge into coding. By offering a novel twist on a traditional coding course, we were able to draw them in! "Everything else" (the location, the research vessel, the adventure) is what some learners came for. What they took away, however, was how to code and a comprehensive introduction to ecological modelling.
 
-![](slide10.png)
+![](slide9.png)
 
 What will I do differently next time? Define modelling expectations: one aspect of the Carpentries lessons that I didn’t incorporate as much as I should have was establishing learning objectives and expectations. Because these students were novices to ecological modelling, their expectations reflected that, and were often variable, unclear, or hindered by misconceptions. Coworking sessions, as mentioned, were extremely successful; in the future I’ll allocate more time for this! No internet (or unreliable internet): make sure you have everything your students will need on flash drives. This includes all of the software, packages, and data compatible with each operating system. The sun can drain your energy! Plan your activities and breaks accordingly.. Seasickness impedes coding - ginger gravol (anti-nausea medication) should be added to the to-bring list..
 
+![](slide10.png)
 I think that these sort of “coding retreats” have the potential to be a valuable resources for learners. We recently announced our next round of R at Sea, which will be happening September 1-3, 2018; if you or anyone you know might be interested in becoming a student with Field School, check out the website and / or contact me at danielle.quinn@mun.ca!
 
 
