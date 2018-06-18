@@ -5,3 +5,6 @@ June 18, 2018
 
 June 11, 2018  
 [To the most inspiring people... the Carpentries community!](https://daniellequinn.github.io/blog-posts/carpentrycon/follow-up.html)
+
+
+Last updated: June 18, 2018 at 5:26 pm
