@@ -7,11 +7,11 @@ title: Terranaut Club Junior Wildlife Conservation Program 2018
 
 *August 7, 2018*
 
-From July 20th to 23rd, [Terranaut Club](www.terranautclub.com) hosted eleven 11-14 year old girls on Bon Portage Island, Nova Scotia, for our first Junior Wildlife Conservation Program!
+From July 20th to 23rd, [Terranaut Club](https://terranautclub.com/) hosted eleven 11-14 year old girls on Bon Portage Island, Nova Scotia, for our first Junior Wildlife Conservation Program!
 
 ![](38600582_956677594519009_8909776043414388736_o.jpg)
 
-Bon Portage Island is a research station owned in part by [Acadia University](www.acadiau.ca) that is home to an estimated 50,000 breeding pairs of [Leach's storm petrel](https://www.audubon.org/field-guide/bird/leachs-storm-petrel), a small grey seabird. Leach's storm petrel populations have faced significant declines, which is why there is ongoing research to study and monitor this population on the island. We thought that Bon Portage (BP) would be the perfect place to learn about wildlife conservation in a hands-on way, and we were right!
+Bon Portage Island is a research station owned in part by [Acadia University](https://www2.acadiau.ca/index.php) that is home to an estimated 50,000 breeding pairs of [Leach's storm petrel](https://www.audubon.org/field-guide/bird/leachs-storm-petrel), a small grey seabird. Leach's storm petrel populations have faced significant declines, which is why there is ongoing research to study and monitor this population on the island. We thought that Bon Portage (BP) would be the perfect place to learn about wildlife conservation in a hands-on way, and we were right!
 
 ![](38518054_956676697852432_7697318866086526976_o.jpg)
 
