@@ -7,11 +7,11 @@ title: Terranaut Club Junior Marine Biologist Program 2018
 
 *August 6, 2018*
 
-We are **thrilled** to share photos from our [Terranaut Club](www.terranautclub.com) Junior Marine Biologist program that ran July 17 - 18 in Hants County, Nova Scotia with eight 9-12 year old girls.
+We are **thrilled** to share photos from our [Terranaut Club](https://terranautclub.com/) Junior Marine Biologist program that ran July 17 - 18 in Hants County, Nova Scotia with eight 9-12 year old girls.
 
 ![](38190295_949305978589504_8401575412504723456_o.jpg)
 
-This 1.5 day program was absolutely jam-packed. We started out with an early morning at the Porter commercial intertidal weir, assisting female biologists from [Acadia University](www.acadiau.ca) with their conservation research on Atlantic sturgeon, little skate, and winter skate. We then traveled to Smiley's Provincial Park, where girls learned how to set up a tent, followed by a group discussion and activities about marine pollution, oil spills, and reducing our consumption of single-use plastics. We painted reusable Terranaut Club bags, did an engineering activity where the girls designed and built miniature boats and tested their load-bearing capabilities, and enjoyed the beautiful day.
+This 1.5 day program was absolutely jam-packed. We started out with an early morning at the Porter commercial intertidal weir, assisting female biologists from [Acadia University](https://www2.acadiau.ca/index.php) with their conservation research on Atlantic sturgeon, little skate, and winter skate. We then traveled to Smiley's Provincial Park, where girls learned how to set up a tent, followed by a group discussion and activities about marine pollution, oil spills, and reducing our consumption of single-use plastics. We painted reusable Terranaut Club bags, did an engineering activity where the girls designed and built miniature boats and tested their load-bearing capabilities, and enjoyed the beautiful day.
 
 ![](38065427_949306845256084_2388732914499059712_o.jpg)
 
