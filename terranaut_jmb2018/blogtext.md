@@ -1,4 +1,11 @@
-# Terranaut Junior Marine Biologist Program
+---
+title: Terranaut Club Junior Marine Biologist Program 2018
+
+---
+
+### Terranaut Junior Marine Biologist Program
+
+*August 6, 2018*
 
 We are **thrilled** to share photos from our [Terranaut Club](www.terranautclub.com) Junior Marine Biologist program that ran July 17 - 18 in Hants County, Nova Scotia with eight 9-11 year old girls.
 
