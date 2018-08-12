@@ -12,5 +12,9 @@ June 18, 2018
 June 11, 2018  
 [To the most inspiring people... the Carpentries community!](https://daniellequinn.github.io/blog-posts/carpentrycon/follow-up.html)
 
+June 1, 2018  
+[Next Steps in R Workshop](https://daniellequinn.github.io/blog-posts/nextstepsinr/blogtext.html)
+
+
 
 Last updated: August 7, 2018 at 11:38 am
