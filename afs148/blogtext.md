@@ -48,9 +48,7 @@ This is far from a perfectly scientific study; I’m sure that we can all think 
 data while attending talks that I was specifically interested in, including anything related to data science, sharks, and community 
 outreach. Maybe attending topics from other domains (genomics, physiology, etc.) would have had completely different results! While 
 I never intended for this to become anything more than an interesting conversation piece, I would like to challenge women to 
-continue asking questions at conferences and I think that this is a hobby / side project that I’m going to continue doing in the 
-future. If you have any thoughts about who is dominating conversations in your environment, I would highly recommend trying out the 
-“Who’s Talking?” app!
+continue asking questions at conferences and seminars - and, specifically, to make an effort to ask the *first* question following a talk. If you have any thoughts about who is dominating conversations in your environment, I would highly recommend trying out the “Who’s Talking?” app!
 
 [*<sup>1</sup>Hinsely, A., W. J. Sutherland, and A. Johnston. 2017. Men ask more questions than women at a scientific conference. 
 PLOS ONE 12(10): e0185534. DOI: 10.1371/journal.pone.0185534*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185534)
