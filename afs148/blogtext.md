@@ -1,3 +1,12 @@
+---
+title: Who's Asking? at AFS 148
+
+---
+
+### Who's Asking? at AFS 148
+
+*August 25, 2018*
+
 A few weeks ago, my partner introduced me to Cathy Deng's online tool, [“Who’s Talking?”](http://arementalkingtoomuch.com/), which allows you to record the proportion of a conversation in which a "Dude" versus "Not a Dude" is speaking. I immediately started thinking about scenarios where it could be used to demonstrate some of the underlying problems that I see first hand in science. Last week (August 20 - 24) I attended the [American Fisheries Society's](https://fisheries.org/) (AFS) [148th Annual Meeting](https://afsannualmeeting.fisheries.org/) in Atlantic City, New Jersey. I know that AFS is [working hard](https://afsannualmeeting.fisheries.org/diversity-and-inclusion-symposium/) to increase diversity, inclusion, and equity in the Society, and has a [Equal Opportunities Section](https://equalopportunity.fisheries.org/) that I'm looking forward to getting more involved with. I decided that a great first-time use of "Who's Talking" would be to monitor the five minute question periods following scientific talks at AFS, and see if any useful information could be collected about who is dominating the conversation from a gender perspective.
 
 Quoting a 2017 study by [<sup>1</sup>](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185534)Hinsley et al., “*…these methods treat gender as a binary dichotomy, which is not the case. In addition, the visual identification of gender assumes that people identify as the gender they appear. This will not always be true…*” I apologize for the exclusion and acknowledge the limitations – I hope that others will share ideas about how to make this kind of informal observational study more inclusive.
