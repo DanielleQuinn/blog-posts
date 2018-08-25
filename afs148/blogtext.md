@@ -17,7 +17,7 @@ I informally collected information during the question period of talks presented
 
 **What data were collected?**
 
-- A total of 79 questions were asked at 26 talks and the data and code can be found on [GitHub](https://github.com/DanielleQuinn/blog-posts/upload/gh-pages/afs148).
+- A total of 79 questions were asked at 26 talks and the data and code can be found on [GitHub](https://github.com/DanielleQuinn/blog-posts/tree/gh-pages/afs148).
 
 - Of a total 864 audience members, 343 (39.7 %) were women, with women representing an average of 39.1 % of the audience in each talk.
 
