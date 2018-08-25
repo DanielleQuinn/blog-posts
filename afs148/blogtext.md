@@ -31,7 +31,7 @@ each talk. This translates to men asking 3.6 questions for every one question as
 - Across talks, men asked significantly more (2.38 +/- 1.44) questions per talk than women (0.65 +/- 1.16) (Wilcoxon test,
 p < 0.01).
 
-![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot1.png)
+![](afs-plot1.png)
 
 **Is there a difference in the duration of questions asked by men and women?**
 
@@ -40,7 +40,7 @@ p < 0.01).
 - Across questions, there was no significant difference in the duration of questions asked by men (11.7 +/- 7.73 seconds) 
 and women (12.2 +/- 6.61 seconds) (Wilcoxon test, p = 0.616).
 
-![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot2.png)
+![](afs-plot2.png)
 
 **Does it matter who asks the first question?**
 
@@ -49,7 +49,7 @@ and women (12.2 +/- 6.61 seconds) (Wilcoxon test, p = 0.616).
 - 100 % of the talks where women asked the first question had women asking proportionally as many or more questions as men;
 this was the case in only 9.5 % of talks where men asked the first question.
 
-![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot3.png)
+![](afs-plot3.png)
 
 **Final Thoughts**
 
