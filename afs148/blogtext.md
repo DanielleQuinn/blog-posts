@@ -55,6 +55,6 @@ continue asking questions at conferences and I think that this is a hobby / side
 future. If you have any thoughts about who is dominating conversations in your environment, I would highly recommend trying out the 
 “Who’s Talking?” app!
 
-*<sup>1</sup>Hinsely, A., W. J. Sutherland, and A. Johnston. 2017. Men ask more questions than women at a scientific conference. 
-PLOS ONE 12(10): e0185534. DOI: 10.1371/journal.pone.0185534*
+[*<sup>1</sup>Hinsely, A., W. J. Sutherland, and A. Johnston. 2017. Men ask more questions than women at a scientific conference. 
+PLOS ONE 12(10): e0185534. DOI: 10.1371/journal.pone.0185534*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185534)
 
