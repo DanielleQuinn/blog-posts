@@ -19,7 +19,7 @@ each talk. This translates to men asking 3.6 questions for every one question as
 
 - In 69.2 % of talks, women asked no questions. In these instances, men asked one to five questions per talk.
 
-- Comparing across talks, men asked significantly more (2.38 +/- 1.44) questions than women (0.65 +/- 1.16) (Wilcoxon test,
+- Across talks, men asked significantly more (2.38 +/- 1.44) questions per talk than women (0.65 +/- 1.16) (Wilcoxon test,
 p < 0.01).
 
 ![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot1.png)
@@ -28,7 +28,7 @@ p < 0.01).
 
 - Of a total of 934 seconds of questions, 208 seconds (22.3 %) were asked by women.
 
-- Comparing across questions, there was no significant difference in the duration of questions asked by men (11.7 +/- 7.73 seconds) 
+- Across questions, there was no significant difference in the duration of questions asked by men (11.7 +/- 7.73 seconds) 
 and women (12.2 +/- 6.61 seconds) (Wilcoxon test, p = 0.616).
 
 ![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot2.png)
