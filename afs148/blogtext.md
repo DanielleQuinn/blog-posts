@@ -11,7 +11,7 @@ I hope that others will share ideas about how to make this kind of informal obse
 
 **What data were collected?**
 
-- A total of 79 questions were asked at 26 talks and the data and code can be found on [GitHub]().
+- A total of 79 questions were asked at 26 talks and the data and code can be found on [GitHub](https://github.com/DanielleQuinn/blog-posts/upload/gh-pages/afs148).
 
 - Of a total 864 audience members, 343 (39.7 %) were women, with women representing an average of 39.1 % of the audience in each talk.
 
@@ -23,21 +23,27 @@ each talk. This translates to men asking 3.6 questions for every one question as
 - In 69.2 % of talks, women asked no questions. In these instances, men asked one to five questions per talk.
 
 - Comparing across talks, men asked significantly more (2.38 +/- 1.44) questions than women (0.65 +/- 1.16) (Wilcoxon test,
-p < 0.01; Figure 1).
+p < 0.01).
+
+![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot1.png)
 
 **Is there a difference in the duration of questions asked by men and women?**
 
 - Of a total of 934 seconds of questions, 208 seconds (22.3 %) were asked by women.
 
 - Comparing across questions, there was no significant difference in the duration of questions asked by men (11.7 +/- 7.73 seconds) 
-and women (12.2 +/- 6.61 seconds) (Wilcoxon test, p = 0.616; Figure 2).
+and women (12.2 +/- 6.61 seconds) (Wilcoxon test, p = 0.616).
+
+![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot2.png)
 
 **Does it matter who asks the first question?**
 
 - Women asked the first question in five (19.2 %) talks while men asked the first question in 21 (80.7 %) talks. 
 
 - 100 % of the talks where women asked the first question had women asking proportionally as many or more questions as men;
-this was the case in only 9.5 % of talks where men asked the first question (Figure 3).
+this was the case in only 9.5 % of talks where men asked the first question.
+
+![](https://github.com/DanielleQuinn/blog-posts/blob/gh-pages/afs148/afs-plot3.png)
 
 **Final Thoughts**
 
