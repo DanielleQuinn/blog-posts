@@ -3,7 +3,7 @@
 I informally collected information during the question period of talks presented at the American Fisheries Society Meeting in 
 Atlantic City, New Jersey between August 20 – 24. In each instance, I recorded the number of males and females in the 
 audience (excluding myself and the moderator), the gender of the presenter, the gender of the person asking each question, 
-and the duration of the question using Cathy Deng’s online tool [“Who’s Talking?”](www.arementalkingtoomuch.com). 
+and the duration of the question using Cathy Deng’s online tool [“Who’s Talking?”](http://arementalkingtoomuch.com/). 
 Quoting a 2017 study by [<sup>1</sup>](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185534)Hinsley et al., 
 “*…these methods treat gender as a binary dichotomy, which is not the case. In addition, the visual identification of gender assumes that
 people identify as the gender they appear. This will not always be true…*” I apologize for the exclusion and acknowledge the limitations – 
