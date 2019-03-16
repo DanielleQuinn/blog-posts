@@ -5,6 +5,7 @@ data <- read.delim("afs_questiondata.txt")
 # ---- Load Packages ----
 library(ggplot2)
 library(dplyr)
+library(tidyr)
 
 # ---- Summary Stats: Sessions ----
 # Number of sessions
