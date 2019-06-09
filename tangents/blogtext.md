@@ -25,7 +25,16 @@ level of flexibility your program has and decide how you can optimize it.
 
 ### 1. Acquire Transferable Skills  
 
-### 2. Attend Conferences  
+There is *huge* demand for data science skills, including data management, programming, statistical analyses, machine learning, and app development. Graduate 
+students are typically exposed to at least foundational computing or statistical 
+techniques through their research or the research of their peers. *Take advantage of this opportunity to develop your skills!* Attend workshops. Ask professionals / supervisors / faculty / senior students / peers what tools and methodologies they 
+are using. Attend workshops. Try new techniques and practice what you've learned. Don't treat your analyses are "one and done"; instead, take the time to understand 
+and document your skill set. These skills will be critical assets when the time comes 
+for you to apply for higher level positions.  
+
+If you're unsure about what specific skill sets you should be focusing on, I recommend that you browse current job openings, take note of what skill sets consistently appear, and then talk to your supervisor and others around you to learn more about what local expertise and support will be available during your learning process.  
+
+### 2. Attend Conferences (and Present Your Work!) 
 
 ### 3. Pursue Consulting Opportunities  
 
@@ -52,4 +61,7 @@ scientist and allowed me to pursue a number of incredible opportunities, includi
 teaching, travelling, and consulting with organizations globally. While it's true 
 that these (and other) tangents take time, they will boost your resume, making you 
 more competitive on funding and job applications, and give you the opportunity 
-to really figure out what aspect(s) of research make you tick.
+to really figure out what aspect(s) of research make you tick. As an added bonus, 
+these tangents can provide refreshing, fulfilling breaks to the tediousness and 
+frustration that often comes with writing a thesis - just make sure you 
+allocate your time carefully!
